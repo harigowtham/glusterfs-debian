@@ -1,3 +1,9 @@
+glusterfs (3.5.7-ubuntu1~wily1) wily; urgency=low
+
+  * GlusterFS 3.5.7 GA
+
+ -- GlusterFS Hari Gowtham <hgowtham@redhat.com>  Wed, 16 Dec 2015 18:06:51 -0400
+
 glusterfs (3.5.6-ubuntu1~vivid1) vivid; urgency=low
 
   * GlusterFS 3.5.6 GA
